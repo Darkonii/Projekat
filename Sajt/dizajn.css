@@ -1,0 +1,20 @@
+body{
+	background-image: linear-gradient(to bottom, #f682fb, #ff80c1, #ff9f89, #ffcb69, #f9f475);
+	font-family: Courier New;
+}
+
+#header{
+
+	background-color: pink;
+
+	border: 1px solid gray;
+	margin:5px 250px; 
+
+	box-shadow: -5px 5px #808080; 
+}
+
+h1{
+
+	text-align: center;
+	text-decoration: underline;
+}
